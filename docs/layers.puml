@@ -1,0 +1,5 @@
+@startuml
+[controllers]-d->[services]
+[controllers]-d->[domain]
+[services]-d->[domain]
+@enduml

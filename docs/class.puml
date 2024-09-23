@@ -1,0 +1,5 @@
+@startuml
+ProjectController - ProjectService : uses >
+ProjectController -d- ProjectRepository
+note on link #red: forbidden!
+@enduml

@@ -1,0 +1,2 @@
+# UserService is only an interface
+.*de\.smartsquare\.wellarchitectedtodo\.userfacade\.UserService.*
