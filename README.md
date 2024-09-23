@@ -6,11 +6,11 @@ This is a simple TODO app that is used to demonstrate some common use cases of A
 
 ### Modules
 
-![Module diagram](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/drosowski/wellarchitectedtodo/refs/heads/master/docs/architecture.puml)
+![Module diagram](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/drosowski/wellarchitectedtodo/refs/heads/main/docs/architecture.puml)
 
 ### Layers
 
-![Layer diagram](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/drosowski/wellarchitectedtodo/refs/heads/master/docs/layers.puml)
+![Layer diagram](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/drosowski/wellarchitectedtodo/refs/heads/main/docs/layers.puml)
 
 ## Tests
 
