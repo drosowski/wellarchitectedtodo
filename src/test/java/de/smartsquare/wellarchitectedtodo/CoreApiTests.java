@@ -1,4 +1,4 @@
-package wellarchitectedtodo;
+package de.smartsquare.wellarchitectedtodo;
 
 import com.tngtech.archunit.core.domain.*;
 import com.tngtech.archunit.core.importer.ClassFileImporter;
@@ -11,7 +11,6 @@ import com.tngtech.archunit.lang.syntax.elements.ClassesShouldConjunction;
 import com.tngtech.archunit.library.metrics.ArchitectureMetrics;
 import com.tngtech.archunit.library.metrics.LakosMetrics;
 import com.tngtech.archunit.library.metrics.MetricsComponents;
-import de.smartsquare.wellarchitectedtodo.WellarchitectedtodoApplicationTests;
 import de.smartsquare.wellarchitectedtodo.project.service.CreateProject;
 import de.smartsquare.wellarchitectedtodo.project.service.ProjectService;
 import org.junit.jupiter.api.Disabled;
